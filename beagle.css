@@ -1,0 +1,20 @@
+html,body{
+    height: 100%;
+	width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2% 2% 2% 2%;
+}
+.box{
+    box-sizing:border-box;
+    width: 100%;
+    border: 1px solid black;
+    padding: 2%;
+    
+}
+
+img{
+    width: 70%;
+}
+a{
+    color: black;
+}
